@@ -1,1 +1,1 @@
-### i store css and js here
+# We store css and js here
